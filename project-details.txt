@@ -1,0 +1,22 @@
+
+to run the project:
+
+1) You need to have an IDE eg: visual studio code
+2) You should have Node installed in your pc
+3) open the project folder in your IDE 
+4) open new terminal 
+4) install Antdesign and firebase in your project 
+5) run command "npm start" and the project wil be started in the browser
+
+project developer:
+Amjad Ali Afridi (021 - 19 - 0055)
+
+project demonstration video 
+https://drive.google.com/file/d/15LCSGJCIsIGWcTDQuaJ92m3i8zb0WSbj/view?usp=sharing
+
+project code
+https://drive.google.com/file/d/1Bknoxr0qeH42HD5J46JVq4vAfEzMGJFN/view?usp=sharing
+
+Github link:
+https://github.com/Amjad-Afridi/web-engineering-project.git
+
